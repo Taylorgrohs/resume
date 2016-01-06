@@ -1,0 +1,11 @@
+#name {
+  text-shadow: 10px 10px 10px grey;
+}
+
+.name {
+  text-align: center;
+}
+
+.contact1, .exp, .edu {
+  margin-left: 100px;
+}
